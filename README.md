@@ -41,19 +41,21 @@ GST: Percentage of GST
 
 Key Definitions:
 Invoice Value: Invoice Value =(( Quantity*Avg_price)*(1-Dicount_pct)*(1+GST))+Delivery_Charges
-Average order value = Revenue / Transaction per customer
-Profit Margin Profit margin is the commonly used profitability ratio. It represents how much 
-percentage of total sales has earned as the gain.
-Purchase Frequency is the average number of purchases made by a customer over a defined period 
-of time (typically one month or one year). It is the sum of total number transactions divided by total 
-number customers.
-Repeat rate shows you the percentage of your current customer base that has come back to shop 
-again.
-Churn Rate is the annual percentage rate at which customers stop subscribing.
-Customer lifetime value, lifetime customer value, or life-time value is a prediction of the net 
-profit/revenue attributed to the entire future relationship with a customer.
 
-Business Objective:
+Average order value = Revenue / Transaction per customer
+
+Profit Margin Profit margin is the commonly used profitability ratio. It represents how much percentage of total sales has earned as the gain.
+
+Purchase Frequency is the average number of purchases made by a customer over a defined period of time (typically one month or one year). It is the sum of total number transactions divided by total number customers.
+
+Repeat rate shows you the percentage of your current customer base that has come back to shop again.
+
+Churn Rate is the annual percentage rate at which customers stop subscribing.
+
+Customer lifetime value, lifetime customer value, or life-time value is a prediction of the net profit/revenue attributed to the entire future relationship with a customer.
+
+# Business Objective:
+
 The e-commerce company is expecting below analysis using the data
 1. Calculate Invoice amount or sale_amount or revenue for each transaction and item level
  Invoice Value =(( Quantity*Avg_price)*(1-Dicount_pct)*(1+GST))+Delivery_Charges
